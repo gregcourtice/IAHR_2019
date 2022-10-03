@@ -1,5 +1,3 @@
-setwd("E:/Working Files/PhD/Conferences/IAHR 2019/R")
-
 library("tidyverse")
 library("NORMT3") #calculate erf()
 library("gridExtra")
